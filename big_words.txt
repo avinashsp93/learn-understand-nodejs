@@ -1,0 +1,4 @@
+JavaScript Big Words made simple
+
+Event Listener - The code that responds to an event.
+Magic String - A string that has some special meaning in our code
