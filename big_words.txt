@@ -1,4 +1,13 @@
 JavaScript Big Words made simple
 
 Event Listener - The code that responds to an event.
-Magic String - A string that has some special meaning in our code
+
+Magic String - A string that has some special meaning in our code.
+
+Machine Code (Machine Language) - Programming languages spoken by computer processors. Every program you run on your computer has been converted (compiled) into machine code.
+
+ECMAScript - The standard Javascript is based on. Needed a standard since there are many JS Engines.
+
+Javascript Engine - A program that converts JS code into something the computer processors can understand.
+
+Breakpoint - A spot in our code where we tell a debugging tool to pause the execution of our code.
