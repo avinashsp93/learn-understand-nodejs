@@ -49,3 +49,6 @@ For example, adding a method or a property to an object means you mutate the obj
 
 Event Listener - The code that responds to an event.
 In javascript's case the listener will be a function.
+
+Template Literal - A way to concatenate strings in Javascript (ES6).
+Easier to work with than a bunch of strings concatenated with '+'.
