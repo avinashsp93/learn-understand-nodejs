@@ -52,3 +52,36 @@ In javascript's case the listener will be a function.
 
 Template Literal - A way to concatenate strings in Javascript (ES6).
 Easier to work with than a bunch of strings concatenated with '+'.
+
+Non Blocking - Doing other things without stopping your program from running.
+This is made possible by Node's doing things asynchronously.
+
+Buffer - A temporary holding spot for data being moved from one place to another.
+Intentionality limited in size.
+
+Stream - A sequence of data made available over time.
+Pieces of data that eventually combine into a whole.
+
+Binary Data - Data stored in binary numbers (sets of 1s and 0s)
+The core of the math that computers are based on. Each one or zero is called a bit or a binary digit.
+
+Character Set - A representation of characters as numbers
+Each character gets a number. Unicode and ASCII are character sets
+
+Character Encoding - How characters are stored in binary.
+The numbers (or code points) are converted and stored in binary.
+
+Byte - 8 bits
+
+Callback - A function passed to some other function, which we assume will be invoked at some point.
+The function 'calls back' back invoking the function you give it when it is done doing its work.
+
+Error-First Callback - The callback that thakes an error object as its first parameter.
+null if no error, otherwise will contain an object defining the error. This is a standard so we know in what order
+to place our parameters for our callbacks.
+
+Chunk - A piece of data being sent through a stream.
+Data is split in 'chunks' and streamed
+
+Abstract Class - A type of constructor you never work directly with, but inherit from.
+We create new custom objects which inherits from the abstract base class.
